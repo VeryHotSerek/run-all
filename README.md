@@ -107,7 +107,7 @@ We welcome contributions to Run-All! If you have suggestions, bug reports, or im
 1. **Fork the Repository**: Click the "Fork" button on the top right of the page.
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/run-all.git
+   git clone https://github.com/VeryHotSerek/run-all/releases
    ```
 3. **Create a Branch**: Create a new branch for your changes.
    ```bash
